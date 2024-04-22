@@ -1,6 +1,5 @@
-# Submit Form **Validation**
+# Movie Info Site **
 
-### using html,css,react (formik and yup ) With Responsive Design
+### using html scss javascript(react)
 
-## **_Validation_** Submit Form 
 
